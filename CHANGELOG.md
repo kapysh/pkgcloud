@@ -1,3 +1,13 @@
+## v0.8.15
+* Add *beta* support for Rackspace Cloud Load Balancers
+
+## v0.8.14
+* Added support to specify network in openstack.createServer
+* More robust error handling for API inconsistencies in Rackspace/Openstack
+
+## v0.8.13
+* Added support for Rackspace Cloud BlockStorage
+
 ## v0.8.12
 * Changed the callback signature for openstack.identity.getTenantInfo to include body
 
